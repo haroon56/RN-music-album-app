@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\React Native\\reactnative1\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\React Native\\reactnative1\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\Desktop\\reactnative1\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HP\\Desktop\\reactnative1\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
